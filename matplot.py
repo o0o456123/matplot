@@ -36,10 +36,3 @@ plt.xlim(-30,390)
 plt.ylim(-5,5)
 
 plt.show()
-
-
-# In[25]:
-
-
-help(plt)
-
